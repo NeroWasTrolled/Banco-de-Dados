@@ -1,0 +1,1 @@
+select id_aluno from aluno where nome="mariazinha";
